@@ -15,4 +15,5 @@
     pip install jupyter notebook
 
 
+#### After 5th epoch, these kind of faces were generated.
 ![5](https://github.com/user-attachments/assets/bc5afb82-5ba6-41da-8688-6c0481f5b834)
